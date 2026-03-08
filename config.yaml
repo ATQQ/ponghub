@@ -1,14 +1,19 @@
 services:
   - name: "My Pages"
     endpoints:
-      - url: "https://blog.ch3nyang.top"
-      - url: "https://file.ch3nyang.top"
-      - url: "https://til.ch3nyang.top"
-      - url: "https://mind.ch3nyang.top"
-  - name: "My Services"
-    endpoints:
-      - url: "https://2024.ch3nyang.top/health"
-      - url: "https://2024.ch3nyang.top"
-
-notifications:
-  enabled: false
+      - url: "https://sugarat.top"
+      - url: "https://docs.sugarat.top"
+      - url: "https://theme.sugarat.top"
+      - url: "https://ep.sugarat.top"
+      - url: "https://imgbed.sugarat.top"
+      - url: "https://lover.sugarat.top"
+      - url: "https://photo.sugarat.top"
+  # - name: "My Services"
+  #   endpoints:
+  #     - url: "https://docker-registry.ch3nyang.top/health"
+  #     - url: "https://2024.ch3nyang.top/health"
+  #     - url: "https://docker-registry.ch3nyang.top/v2"
+  #       status_code: 401
+  #     - url: "https://2024.ch3nyang.top"
+# notifications:
+#   enabled: false
