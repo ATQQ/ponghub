@@ -2,7 +2,7 @@ services:
   - name: "My Pages"
     endpoints:
       - url: "https://sugarat.top"
-      - url: "https://docs.sugarat.sugarat.top"
+      - url: "https://docs.ep.sugarat.top"
       - url: "https://theme.sugarat.top"
       - url: "https://ep.sugarat.top"
       - url: "https://imgbed.sugarat.top"
