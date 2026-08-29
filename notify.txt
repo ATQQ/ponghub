@@ -1,0 +1,22 @@
+=== PongHub Service Status Report ===
+Generated at: 2026-08-29 15:51:46
+
+🔴 UNAVAILABLE SERVICES:
+==================================================
+
+📋 Service: My Pages
+  • URL: https://lover.sugarat.top
+    Method: GET
+    Attempts: 0/2 successful
+    Check Time: 2026-08-29T15:51:43Z - 2026-08-29T15:51:44Z
+    Failure Details:
+      - SSL Certificate Error: tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match lover.sugarat.top
+      - StatusCode: N/A, Error: Get "https://lover.sugarat.top": tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match lover.sugarat.top
+      - StatusCode: N/A, Error: Get "https://lover.sugarat.top": tls: failed to verify certificate: x509: certificate is not valid for any names, but wanted to match lover.sugarat.top
+
+
+📊 SUMMARY:
+==================================================
+Unavailable Endpoints: 1
+Certificate Issues: 0
+Total Issues: 1
